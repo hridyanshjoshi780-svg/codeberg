@@ -7,6 +7,7 @@ a problem shows up and get solved, that's what i do
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -15,4 +16,8 @@ a problem shows up and get solved, that's what i do
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
