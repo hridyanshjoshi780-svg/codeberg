@@ -8,6 +8,7 @@ a problem shows up and get solved, that's what i do
 | ------- |
 | [0001-two-sum](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -26,4 +27,8 @@ a problem shows up and get solved, that's what i do
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0217-contains-duplicate) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
