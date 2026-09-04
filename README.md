@@ -14,6 +14,7 @@ a problem shows up and get solved, that's what i do
 | [0217-contains-duplicate](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0217-contains-duplicate) |
 | [3875-construct-uniform-parity-array-i](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,4 +51,8 @@ a problem shows up and get solved, that's what i do
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0014-longest-common-prefix) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
