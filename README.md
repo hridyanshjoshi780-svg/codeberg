@@ -15,6 +15,7 @@ a problem shows up and get solved, that's what i do
 | [3875-construct-uniform-parity-array-i](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,4 +56,5 @@ a problem shows up and get solved, that's what i do
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
