@@ -25,6 +25,7 @@ a problem shows up and get solved, that's what i do
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0013-roman-to-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/3875-construct-uniform-parity-array-i) |
@@ -57,4 +58,12 @@ a problem shows up and get solved, that's what i do
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/3904-smallest-stable-index-ii) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
