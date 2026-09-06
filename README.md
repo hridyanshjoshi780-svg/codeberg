@@ -49,6 +49,7 @@ a problem shows up and get solved, that's what i do
 | ------- |
 | [0013-roman-to-integer](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0058-length-of-last-word) |
 ## Trie
 |  |
 | ------- |
