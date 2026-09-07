@@ -28,6 +28,7 @@ a problem shows up and get solved, that's what i do
 | [0002-add-two-numbers](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0069-sqrtx) |
 | [3875-construct-uniform-parity-array-i](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
@@ -67,4 +68,12 @@ a problem shows up and get solved, that's what i do
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0002-add-two-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
