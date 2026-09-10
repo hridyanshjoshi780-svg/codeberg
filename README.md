@@ -51,6 +51,7 @@ a problem shows up and get solved, that's what i do
 | ------- |
 | [0013-roman-to-integer](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0058-length-of-last-word) |
 ## Trie
 |  |
@@ -77,4 +78,12 @@ a problem shows up and get solved, that's what i do
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0069-sqrtx) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
