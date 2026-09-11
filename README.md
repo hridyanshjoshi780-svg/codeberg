@@ -12,6 +12,7 @@ a problem shows up and get solved, that's what i do
 | [0088-merge-sorted-array](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0217-contains-duplicate) |
+| [3483-unique-3-digit-even-numbers](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/3903-smallest-stable-index-i) |
@@ -22,6 +23,7 @@ a problem shows up and get solved, that's what i do
 | [0001-two-sum](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0217-contains-duplicate) |
+| [3483-unique-3-digit-even-numbers](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -70,6 +72,7 @@ a problem shows up and get solved, that's what i do
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0002-add-two-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -86,4 +89,8 @@ a problem shows up and get solved, that's what i do
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0020-valid-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
