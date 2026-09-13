@@ -21,6 +21,7 @@ a problem shows up and get solved, that's what i do
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0217-contains-duplicate) |
 | [3483-unique-3-digit-even-numbers](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/3483-unique-3-digit-even-numbers) |
@@ -51,6 +52,7 @@ a problem shows up and get solved, that's what i do
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0020-valid-parentheses) |
@@ -93,4 +95,8 @@ a problem shows up and get solved, that's what i do
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/3483-unique-3-digit-even-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
