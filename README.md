@@ -32,6 +32,7 @@ a problem shows up and get solved, that's what i do
 | [0009-palindrome-number](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0069-sqrtx) |
+| [0836-rectangle-overlap](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0836-rectangle-overlap) |
 | [3870-count-commas-in-range](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -99,4 +100,8 @@ a problem shows up and get solved, that's what i do
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0003-longest-substring-without-repeating-characters) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
