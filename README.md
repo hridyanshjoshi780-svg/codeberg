@@ -58,6 +58,7 @@ a problem shows up and get solved, that's what i do
 | [0014-longest-common-prefix](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0058-length-of-last-word) |
+| [3498-reverse-degree-of-a-string](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -104,4 +105,8 @@ a problem shows up and get solved, that's what i do
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0836-rectangle-overlap) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
