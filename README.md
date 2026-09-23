@@ -9,6 +9,7 @@ a problem shows up and get solved, that's what i do
 | [0001-two-sum](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0217-contains-duplicate) |
@@ -80,6 +81,7 @@ a problem shows up and get solved, that's what i do
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0069-sqrtx) |
 ## Newton's Method
 |  |
