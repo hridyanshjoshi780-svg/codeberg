@@ -7,6 +7,7 @@ a problem shows up and get solved, that's what i do
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0027-remove-element) |
@@ -85,6 +86,7 @@ a problem shows up and get solved, that's what i do
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0069-sqrtx) |
 ## Newton's Method
@@ -115,4 +117,8 @@ a problem shows up and get solved, that's what i do
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/3498-reverse-degree-of-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
