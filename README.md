@@ -64,6 +64,7 @@ a problem shows up and get solved, that's what i do
 | [0014-longest-common-prefix](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0058-length-of-last-word) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
@@ -97,10 +98,12 @@ a problem shows up and get solved, that's what i do
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Enumeration
 |  |
 | ------- |
