@@ -44,6 +44,7 @@ a problem shows up and get solved, that's what i do
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0088-merge-sorted-array) |
@@ -55,11 +56,13 @@ a problem shows up and get solved, that's what i do
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0020-valid-parentheses) |
@@ -124,4 +127,8 @@ a problem shows up and get solved, that's what i do
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0004-median-of-two-sorted-arrays) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/hridyanshjoshi780-svg/codeberg/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
